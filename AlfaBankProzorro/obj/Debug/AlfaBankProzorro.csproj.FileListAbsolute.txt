@@ -1,0 +1,13 @@
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\obj\Debug\AlfaBankProzorro.csprojResolveAssemblyReference.cache
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\AlfaBankProzorro.dll
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\AlfaBankProzorro.pdb
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\nunit.framework.dll
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\nunit.framework.xml
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\obj\Debug\AlfaBankProzorro.dll
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\obj\Debug\AlfaBankProzorro.pdb
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\WebDriver.dll
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\WebDriver.Support.dll
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\WebDriver.xml
+D:\TFS Code\VisualStudioProjects\AlfaBankProzorro\AlfaBankProzorro\AlfaBankProzorro\bin\Debug\WebDriver.Support.xml

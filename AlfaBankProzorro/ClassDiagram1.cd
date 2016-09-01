@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AlfaBankProzorro.TestBase" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAQAAAAAAABAAAAAAADAAAAIAAAAAAAQAAAAACA=</HashCode>
+      <FileName>tests\TestBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlfaBankProzorro.BuyerWithLicenceTest">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\BuyerWithLicenceTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlfaBankProzorro.BuyerWithoutLicenceTest">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\BuyerWithoutLicenceTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlfaBankProzorro.LiquidatorSellerTest">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\LiquidatorSellerTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AlfaBankProzorro.ObserverTest">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tests\ObserverTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
